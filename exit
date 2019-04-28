@@ -1,0 +1,40 @@
+[33m5fb0073[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 5fb0073
+[33m7c5bc91[m HEAD@{1}: reset: moving to 7c5bc91
+[33m5fb0073[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{2}: commit: 0352changes
+[33m7192c4d[m HEAD@{3}: reset: moving to HEAD~1
+[33m8835406[m HEAD@{4}: reset: moving to ORIG_HEAd
+[33m7192c4d[m HEAD@{5}: reset: moving to HEAD~1
+[33m8835406[m HEAD@{6}: reset: moving to 8835406
+[33m6c63ac7[m HEAD@{7}: reset: moving to HEAD~2
+[33m5851fc3[m HEAD@{8}: reset: moving to HEAD~1
+[33m7c5bc91[m HEAD@{9}: commit: 0342changes
+[33m5851fc3[m HEAD@{10}: commit: 0340changes
+[33m6df0006[m HEAD@{11}: commit: 0339changes
+[33m6c63ac7[m HEAD@{12}: commit: 0336 changes
+[33m8835406[m HEAD@{13}: commit: 0334 changes
+[33m7192c4d[m HEAD@{14}: reset: moving to HEAD~1
+[33m6e59d52[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{15}: reset: moving to ORIG_HEAD
+[33m7192c4d[m HEAD@{16}: reset: moving to HEAD~1
+[33m6e59d52[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{17}: commit: 0328changes
+[33m7192c4d[m HEAD@{18}: commit: 0317
+[33m3ed2c3a[m HEAD@{19}: reset: moving to HEAD~3
+[33m52b5c64[m HEAD@{20}: reset: moving to HEAD~2
+[33ma9c7e05[m HEAD@{21}: reset: moving to HEAD~1
+[33me914d72[m HEAD@{22}: reset: moving to ORIG_HEAD
+[33mc30269b[m HEAD@{23}: commit: changes0306
+[33m83b0c51[m HEAD@{24}: reset: moving to ORIG_HEAD
+[33me914d72[m HEAD@{25}: reset: moving to HEAD~1
+[33m83b0c51[m HEAD@{26}: commit (merge): changes28
+[33me914d72[m HEAD@{27}: commit: today changes
+[33ma9c7e05[m HEAD@{28}: reset: moving to HEAD~1
+[33m430085e[m HEAD@{29}: reset: moving to HEAD~1
+[33mf397ccd[m HEAD@{30}: commit: file2add
+[33m430085e[m HEAD@{31}: commit: file2
+[33ma9c7e05[m HEAD@{32}: commit: file2
+[33m734a81c[m HEAD@{33}: commit: file
+[33m52b5c64[m HEAD@{34}: reset: moving to HEAD~1
+[33m78f46a9[m HEAD@{35}: commit: vhanges
+[33m52b5c64[m HEAD@{36}: commit: changes
+[33m6e4b891[m HEAD@{37}: commit: Commit changes
+[33mccfb763[m HEAD@{38}: commit: Commit changes
+[33m3ed2c3a[m HEAD@{39}: commit (initial): initial commit
